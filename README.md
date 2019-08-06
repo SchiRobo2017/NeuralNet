@@ -1,7 +1,6 @@
 TwoLayerNet
 ====
 
-Overview
  二層ニューラルネットのフルスクラッチ実装です。MNISTのデータを学習・分類し、accuracyの推移をグラフで表示します。
 
 ## Requirement
